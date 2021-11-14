@@ -1,0 +1,17 @@
+{
+  "name": "activity_2_triangle_area",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hackademy Activity 2",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rodrigo Medina - r@manguitoblue.io",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "@types/jest": "^27.0.2"
+  }
+}
