@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6338751&assignment_repo_type=AssignmentRepo)
 # Javascript geometry Exercise
 
 In this exercise you have to write code in the file `geometry.js` for calculating the area of a square, a triangle and a circle.
