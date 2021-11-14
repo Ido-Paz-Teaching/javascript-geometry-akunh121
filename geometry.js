@@ -1,13 +1,16 @@
 function getTriangleArea(height, width) {
-  /* Your amazing code here 🚀 */
+  return((height*width)/2)
 }
 
 function getSquareArea(side) {
-  /* Your amazing code here 🚀 */
+  
+  return(side*side)
+  
 }
 
 function getCircleArea(radius) {
-  /* Your amazing code here 🚀 */
+ 
+  return Number((Math.PI*radius*radius).toFixed(2))
 }
 
 //Please , don't remove the following code 
